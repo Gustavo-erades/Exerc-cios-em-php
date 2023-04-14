@@ -8,3 +8,4 @@ Conjunto de exercícios feitos em php, dos últimos desafios do curso de php mod
 ### -Mostrar todos os dados de divisão (dividendo,divisor,quociente e resto) entre dois núemeros digitados pelo usuário;
 ### -Dizer quantos salários mínimos uma pessoa recebe;
 ### -Calcular o tempo a partir de um número de segundos digitado pelo usuário.
+### -Simular um caixa eletrônico; o usuário digita um valor para saque e é dito quantas notas de 100, 50, 10 e/ou 5 o caixa deverá repassar
