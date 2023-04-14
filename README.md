@@ -7,5 +7,7 @@ Conjunto de exercícios feitos em php, dos últimos desafios do curso de php mod
 ### -Dizer a raiz quadrada e cúbica de um número digitado pelo usuário;
 ### -Mostrar todos os dados de divisão (dividendo,divisor,quociente e resto) entre dois núemeros digitados pelo usuário;
 ### -Dizer quantos salários mínimos uma pessoa recebe;
-### -Calcular o tempo a partir de um número de segundos digitado pelo usuário.
+### -Calcular o tempo a partir de um número de segundos digitado pelo usuário;
 ### -Simular um caixa eletrônico; o usuário digita um valor para saque e é dito quantas notas de 100, 50, 10 e/ou 5 o caixa deverá repassar
+### -Simular o reajuste de preço de um produto; o usuário digita o valor original do produto e em seguida usa a faixa para dizer a porcentagem de aumento dele, depois é dito o valor final com o aumento;
+### -Calcular a idade do usuário com base em seu ano de nascimento.
