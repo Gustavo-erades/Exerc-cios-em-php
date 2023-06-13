@@ -24,7 +24,7 @@
         <form action="<?= $_SERVER['PHP_SELF'] ?>" method="get">
             <div class="caixaMenor">
                 <label for="val" class="label primeiro"><h2>Valor original do produto:</h2></label>
-                <input type="number" class="main-input" name="val" id="val" min="0.10" step="0.1" value="<?= $val ?>">
+                <input type="number" class="main-input" name="val" id="val" min="0.10" step="0.01" value="<?= $val ?>">
                 <label for="percent" class="label"><h2><span id="num_percent">?</span>% de aumento:</h2></label>
                 <input type="range" class="main-input" name="percent" id="percent" min="1" max="100" step="1" value="<?=$percent?>"
                 oninput="mudar_porcentagem()">
